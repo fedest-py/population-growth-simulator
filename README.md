@@ -14,7 +14,7 @@ Where:
 The program:
 1. Prompts the user to enter the initial population.
 2. Repeats the growth process three times, asking for:
-   - A time period (in years)
+   - A time-period (in years)
    - A relative growth rate (as a percentage)
 3. Updates the population each time using the exponential growth formula.
 4. Prints the final population value.
