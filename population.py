@@ -1,11 +1,6 @@
 #******************************************************************************
 # population.py
-#******************************************************************************
-# Name: 
-#******************************************************************************
-# Remarks (optional):
-# Eduardo Esteves
-# MTH 3030
+# Eduardo E
 #
 
 #ask user for the value initial population value
@@ -59,6 +54,7 @@ Please Stand By''')
 
 
 print('The final population is: ', population_0)
+
 
 
 
