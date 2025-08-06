@@ -20,13 +20,13 @@ The program:
 4. Prints the final population value.
 
 ## Example:
-Enter initial populational value: 300
-Enter time period for MODEL 1: 4
-Enter relative growth rate for MODEL 1: 1.2
-Enter time period for MODEL 2: 2.5
-Enter relative growth rate for MODEL 2: 5
-Enter time period for MODEL 3: 1
-Enter relative growth rate for MODEL 3: 2.1
+- Enter initial populational value: 300
+- Enter time period for MODEL 1: 4
+- Enter relative growth rate for MODEL 1: 1.2
+- Enter time period for MODEL 2: 2.5
+- Enter relative growth rate for MODEL 2: 5
+- Enter time period for MODEL 3: 1
+- Enter relative growth rate for MODEL 3: 2.1
 
 Calculating....
 Please Stand By
