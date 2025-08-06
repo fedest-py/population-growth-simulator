@@ -28,9 +28,9 @@ The program:
 - Enter time period for MODEL 3: 1
 - Enter relative growth rate for MODEL 3: 2.1
 
-Calculating....
-Please Stand By
-The final population is: 364.2288848868699
+- Calculating....
+- Please Stand By
+- The final population is: 364.2288848868699
 
 ## Concepts Demonstrated:
 - Mathematical modeling
