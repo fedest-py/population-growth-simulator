@@ -4,11 +4,11 @@ This Python program models the exponential growth of a population over three tim
 P = P₀ * e^(rt)
 
 Where:
-P is the final population
-P₀ is the initial population
-e is the Euler's number
-r is the annual growth rate
-t is time (years)
+- P is the final population
+- P₀ is the initial population
+- e is the Euler's number
+- r is the annual growth rate
+- t is time (years)
 
 
 The program:
